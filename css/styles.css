@@ -9,13 +9,10 @@
     color: black;
 
 }
-.navbar-brand h3{
 
-    /*font-family: 'Luckiest Guy', cursive;*/    
-}
 
 .navbar {
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Lato', sans-serif;
     margin-bottom: 0.5rem;
 }
 
