@@ -12,8 +12,13 @@
 
 
 .navbar {
-    font-family: 'Lato', sans-serif;
-    margin-bottom: 0.5rem;
+    /*font-family: 'Bebas Neue', cursive;*/
+    font-family: 'Press Start 2P', cursive;
+    
+}
+.text-dark{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 80%;
 }
 
 .embed-container {
