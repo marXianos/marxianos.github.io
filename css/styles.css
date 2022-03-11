@@ -4,18 +4,23 @@
 }
 
 .container{
- background-color:white;
     border: 10px;
-    color: black;
-
+    /*color: black;*/
+    position: static;
 }
-
 
 .navbar {
     /*font-family: 'Bebas Neue', cursive;*/
     font-family: 'Press Start 2P', cursive;
     
 }
+
+h6{
+    text-align: justify;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 100%;
+}
+
 .text-dark{
     font-family: 'Press Start 2P', cursive;
     font-size: 80%;
@@ -27,6 +32,7 @@
     height: 0;
     overflow: hidden;
 }
+
 .embed-container iframe {
     position: absolute;
     top:0;
@@ -65,8 +71,7 @@ body {
     filter: FlipH;
     -ms-filter: "FlipH";
 }
-/*@media screen and (min-width: 1023px) {
-    body{
-        padding: 6vw;
-    }
-}*/
+@media screen and (min-width: 992px) {
+    html{}
+
+}
